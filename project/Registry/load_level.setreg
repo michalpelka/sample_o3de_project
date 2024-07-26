@@ -1,0 +1,16 @@
+{
+   "O3DE": {
+        "Autoexec": {
+            "ConsoleCommands": {
+                "LoadLevel": "defaultlevel"
+            }
+        },
+        "InputSystem":
+        {
+            "Mouse":
+            {
+                "CaptureMouseCursor": false
+            }
+        }
+    }
+}

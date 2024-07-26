@@ -1,0 +1,54 @@
+{
+    "ContainerEntity": {
+        "Id": "Entity_[276456095790]",
+        "Name": "Level",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 9939844048347820814
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 17494937436071983258
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 11665739372849868
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 1001206482284712360
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 17131928968005031669
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 7816759455974825793
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 11956010807490506544
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 12891430099320035211
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 17413696217914021531
+            },
+            "LocalViewBookmarkComponent": {
+                "$type": "LocalViewBookmarkComponent",
+                "Id": 11771030627053351971,
+                "LocalBookmarkFileName": "Pointclouds_17219814227168759.setreg"
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 10907457948096513540,
+                "Parent Entity": ""
+            }
+        }
+    }
+}

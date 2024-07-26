@@ -1,0 +1,36 @@
+{
+    "project_name": "sample_project",
+    "version": "1.0.0",
+    "project_id": "{9690127F-237B-4838-A4FF-28F3AF0231C3}",
+    "origin": "The primary repo for sample_project goes here: i.e. http://www.mydomain.com",
+    "license": "What license sample_project uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "sample_project",
+    "summary": "A short description of sample_project.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "sample_project"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "sample_project",
+    "gem_names": [
+        "Atom",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EMotionFX",
+        "ImGui",
+        "PhysX",
+        "PrefabBuilder",
+        "PrimitiveAssets",
+        "TextureAtlas",
+        "sample_project",
+        "Pointcloud"
+    ],
+    "engine_version": "4.2.0"
+}

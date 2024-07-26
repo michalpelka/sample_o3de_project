@@ -1,0 +1,3 @@
+[submodule "extra_gems/robotec-o3de-tools"]
+	path = extra_gems/robotec-o3de-tools
+	url = https://github.com/RobotecAI/robotec-o3de-tools.git
